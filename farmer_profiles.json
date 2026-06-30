@@ -1,0 +1,459 @@
+{
+  "bb36ba82-5800-402d-b67c-310d8699df72": {
+    "session_id": "bb36ba82-5800-402d-b67c-310d8699df72",
+    "name": "Namrata",
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:40:34.375693",
+        "user": "Hello, my name is Namrata, I have a farm in Ahmedabad",
+        "agent": "orchestrator",
+        "response": "Namaste Namrata, nice to meet you. Welcome to AgriGuard. How can I assist you with your farm in Ahmedabad today?"
+      }
+    ],
+    "created_at": "2026-06-25T17:40:33.493386",
+    "last_active": "2026-06-25T17:40:34.375701"
+  },
+  "cc6110ae-f5e8-463e-8572-e68dbd729eda": {
+    "session_id": "cc6110ae-f5e8-463e-8572-e68dbd729eda",
+    "name": null,
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:41:02.834129",
+        "user": "mera nam namrata hai, aur me ahmedabad se hu",
+        "agent": "orchestrator",
+        "response": "नमस्ते नम्रता जी, Ahmedabad से आपका स्वागत है। मैं AgriGuard हूँ, आपकी खेती से जुड़ी समस्याओं और प्रश्नों का जवाब देने के लिए यहाँ हूँ। कृपया अपनी समस्या या प्रश्न बताएं, मैं आपकी सहायता करने की पूरी "
+      }
+    ],
+    "created_at": "2026-06-25T17:41:02.257417",
+    "last_active": "2026-06-25T17:41:02.834139"
+  },
+  "534fb6e8-bf91-47b5-b692-cc09fdaffd0d": {
+    "session_id": "534fb6e8-bf91-47b5-b692-cc09fdaffd0d",
+    "name": null,
+    "location": null,
+    "crops": [
+      "wheat",
+      "tomato"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:41:17.926820",
+        "user": "I grow wheat and tomatoes",
+        "agent": "orchestrator",
+        "response": "You grow wheat and tomatoes. How can I assist you with these crops today? Do you have any questions about soil preparation, pest management, or harvesting techniques?"
+      }
+    ],
+    "created_at": "2026-06-25T17:41:17.501034",
+    "last_active": "2026-06-25T17:41:17.926839"
+  },
+  "417fbccb-67d3-4879-9d24-c62cd62437bc": {
+    "session_id": "417fbccb-67d3-4879-9d24-c62cd62437bc",
+    "name": "Namrata",
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:41:23.009118",
+        "user": "Hello, my name is Namrata, I have a farm in Ahmedabad",
+        "agent": "orchestrator",
+        "response": "Hello Namrata, nice to meet you. I'm AgriGuard, your friendly farming assistant. Ahmedabad has a great climate for farming, what type of crops are you growing on your farm?"
+      }
+    ],
+    "created_at": "2026-06-25T17:41:22.649298",
+    "last_active": "2026-06-25T17:41:23.009127"
+  },
+  "f9929703-5d44-4939-9200-c53c0619760f": {
+    "session_id": "f9929703-5d44-4939-9200-c53c0619760f",
+    "name": null,
+    "location": null,
+    "crops": [
+      "wheat",
+      "tomato"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:41:33.817773",
+        "user": "I grow wheat and tomatoes",
+        "agent": "orchestrator",
+        "response": "You grow wheat and tomatoes. What would you like to know about growing these crops? Do you have any specific questions about fertilizers, irrigation, or pest management?"
+      }
+    ],
+    "created_at": "2026-06-25T17:41:33.337624",
+    "last_active": "2026-06-25T17:41:33.817784"
+  },
+  "3a822b15-9e0d-41aa-8706-69cf1f224b6a": {
+    "session_id": "3a822b15-9e0d-41aa-8706-69cf1f224b6a",
+    "name": "Ramesh",
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:41:46.248501",
+        "user": "My name is Ramesh and I farm in Ahmedabad",
+        "agent": "orchestrator",
+        "response": "Namaste Ramesh ji, Ahmedabad mein khेतi kaise chal rahi hai? Main aapki khushi ke liye yahan hoon, kya main aapki kisi madad kar sakta hoon?"
+      }
+    ],
+    "created_at": "2026-06-25T17:41:45.702939",
+    "last_active": "2026-06-25T17:41:46.248511"
+  },
+  "1f908a49-2733-4396-8b43-6e29fc7bfd83": {
+    "session_id": "1f908a49-2733-4396-8b43-6e29fc7bfd83",
+    "name": "Ramesh",
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:42:23.679392",
+        "user": "My name is Ramesh and I farm in Ahmedabad",
+        "agent": "orchestrator",
+        "response": "Hello Ramesh, welcome to AgriGuard. I'm happy to assist you with any farming-related queries you may have in Ahmedabad. What can I help you with today?"
+      }
+    ],
+    "created_at": "2026-06-25T17:42:23.059179",
+    "last_active": "2026-06-25T17:42:23.679402"
+  },
+  "08a1a3e5-ec05-4ec9-a70a-b8b296c7485b": {
+    "session_id": "08a1a3e5-ec05-4ec9-a70a-b8b296c7485b",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:42:40.929244",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a grower of wheat and tomatoes, you should be aware of Powdery Mildew and Leaf Spot in wheat, and Tomato Leaf Curl Virus and Early Blight in tomatoes. These diseases can significantly reduce yields"
+      }
+    ],
+    "created_at": "2026-06-25T17:42:40.226916",
+    "last_active": "2026-06-25T17:42:40.929257"
+  },
+  "df3dbf03-a3ce-4188-a7bf-d715306b470b": {
+    "session_id": "df3dbf03-a3ce-4188-a7bf-d715306b470b",
+    "name": "Ramesh",
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:45:54.315167",
+        "user": "My name is ramesh and i grow crops in ahmedabad",
+        "agent": "orchestrator",
+        "response": "Hello Ramesh, namaste. I'm AgriGuard, your farming assistant. Ahmedabad has a semi-arid climate, so I'll provide guidance suitable for your region. What specific crop-related questions or concerns do "
+      }
+    ],
+    "created_at": "2026-06-25T17:45:53.358512",
+    "last_active": "2026-06-25T17:45:54.315176"
+  },
+  "714a0f12-7bd9-4342-bfab-7505b64856a5": {
+    "session_id": "714a0f12-7bd9-4342-bfab-7505b64856a5",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:46:24.005242",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you may be affected by diseases such as Powdery Mildew and Rust in wheat, and Leaf Spot and Early Blight in tomatoes. Powdery Mildew can be managed by removing infected p"
+      }
+    ],
+    "created_at": "2026-06-25T17:46:23.377712",
+    "last_active": "2026-06-25T17:46:24.005251"
+  },
+  "ac5b516f-7cd1-4dba-b199-3f88a767a7a6": {
+    "session_id": "ac5b516f-7cd1-4dba-b199-3f88a767a7a6",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:47:00.194291",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you should be aware of Powdery Mildew, which can affect wheat, and Early Blight, which can affect tomatoes. These diseases can reduce your crop yields significantly if le"
+      }
+    ],
+    "created_at": "2026-06-25T17:46:59.251508",
+    "last_active": "2026-06-25T17:47:00.194320"
+  },
+  "eba732f0-e790-418a-bf80-64536f0dc7a0": {
+    "session_id": "eba732f0-e790-418a-bf80-64536f0dc7a0",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:47:04.291751",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato farmer, you may be susceptible to diseases like Powdery Mildew and Root Rot in wheat, and Leaf Spot and Early Blight in tomatoes. These diseases can be managed with regular crop "
+      }
+    ],
+    "created_at": "2026-06-25T17:47:03.770808",
+    "last_active": "2026-06-25T17:47:04.291759"
+  },
+  "2d17d6a8-54e1-4a83-89b5-9eb8f83dfc43": {
+    "session_id": "2d17d6a8-54e1-4a83-89b5-9eb8f83dfc43",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:48:20.732452",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you may be susceptible to diseases like Powdery Mildew and Leaf Spot in wheat, and Early Blight and Septoria Leaf Spot in tomatoes. These diseases can be managed with reg"
+      }
+    ],
+    "created_at": "2026-06-25T17:48:19.923595",
+    "last_active": "2026-06-25T17:48:20.732462"
+  },
+  "0d6413bd-e5fd-4fd8-af5e-50d55eaada8a": {
+    "session_id": "0d6413bd-e5fd-4fd8-af5e-50d55eaada8a",
+    "name": null,
+    "location": null,
+    "crops": [
+      "wheat",
+      "tomato"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:50:55.611694",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you should be aware of diseases like Powdery Mildew and Leaf Spot that can affect your wheat crop, while your tomato crop is susceptible to diseases like Early Blight and"
+      }
+    ],
+    "created_at": "2026-06-25T17:50:54.571628",
+    "last_active": "2026-06-25T17:50:55.611704"
+  },
+  "f38ad5f7-1349-43e2-aac5-de52b55cf15d": {
+    "session_id": "f38ad5f7-1349-43e2-aac5-de52b55cf15d",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:53:01.215969",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you should be aware of Powdery Mildew and Leaf Spot diseases that can affect your wheat crop, while your tomato crop can be susceptible to diseases like Early Blight and "
+      }
+    ],
+    "created_at": "2026-06-25T17:53:00.360909",
+    "last_active": "2026-06-25T17:53:01.215978"
+  },
+  "94e15b41-b7df-4803-8990-dea3a70b10a6": {
+    "session_id": "94e15b41-b7df-4803-8990-dea3a70b10a6",
+    "name": "Namrata",
+    "location": null,
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:53:11.825195",
+        "user": "My name is Namrata",
+        "agent": "orchestrator",
+        "response": "Hello Namrata, कैसे किसानी चल रही है? (Hello Namrata, how's farming going?)"
+      }
+    ],
+    "created_at": "2026-06-25T17:53:11.476566",
+    "last_active": "2026-06-25T17:53:11.825204"
+  },
+  "c9d5b51d-c81f-4dde-b7b2-885b6c3eace9": {
+    "session_id": "c9d5b51d-c81f-4dde-b7b2-885b6c3eace9",
+    "name": null,
+    "location": null,
+    "crops": [
+      "tomato",
+      "wheat"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-25T17:53:16.526162",
+        "user": "I grow wheat and tomatoes. What disease affects my crops?",
+        "agent": "crop_doctor",
+        "response": "As a wheat and tomato grower, you may be affected by diseases such as Powdery Mildew in wheat and Tomato Blight or Leaf Spot in tomatoes. These diseases can be caused by fungal infections and can lead"
+      }
+    ],
+    "created_at": "2026-06-25T17:53:15.950296",
+    "last_active": "2026-06-25T17:53:16.526169"
+  },
+  "851dcd53-e83e-497e-8a95-af22b1a9928d": {
+    "session_id": "851dcd53-e83e-497e-8a95-af22b1a9928d",
+    "name": null,
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:22:42.221092",
+        "user": "Will it rain in Ahmedabad tomorrow?",
+        "agent": "weather",
+        "response": "Hello Ahmedabad farmer, \n\nAccording to the latest weather forecast, there is a 36% chance of light rain in Ahmedabad tomorrow (2026-06-30). However, the chances of rain increase significantly on the d"
+      }
+    ],
+    "created_at": "2026-06-30T23:22:38.660641",
+    "last_active": "2026-06-30T23:22:42.221101"
+  },
+  "60a7a771-ec42-463a-b1f7-28256db9267e": {
+    "session_id": "60a7a771-ec42-463a-b1f7-28256db9267e",
+    "name": null,
+    "location": null,
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:23:14.678364",
+        "user": "Will it rain in odhav tomorrow?",
+        "agent": "weather",
+        "response": "Based on the 3-day forecast, there is a 36% chance of light rain in Ahmedabad on 2026-06-30, but a 100% chance of rain on 2026-07-01. Since Odhav is a part of Ahmedabad, it's likely to rain in Odhav o"
+      }
+    ],
+    "created_at": "2026-06-30T23:23:13.077606",
+    "last_active": "2026-06-30T23:23:14.678374"
+  },
+  "5598ce34-b624-408a-9463-6e569c3a6072": {
+    "session_id": "5598ce34-b624-408a-9463-6e569c3a6072",
+    "name": null,
+    "location": null,
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:23:42.386728",
+        "user": "what about naroda",
+        "agent": "orchestrator",
+        "response": "Naroda is a region in Gujarat, India. If you're looking for farming information related to Naroda, I'd be happy to help. What specific aspect of farming in Naroda would you like to know about?"
+      }
+    ],
+    "created_at": "2026-06-30T23:23:41.520719",
+    "last_active": "2026-06-30T23:23:42.386737"
+  },
+  "51e44048-df9e-4951-b94f-3711cbfbbcbb": {
+    "session_id": "51e44048-df9e-4951-b94f-3711cbfbbcbb",
+    "name": null,
+    "location": null,
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:24:14.989659",
+        "user": "kya kal barish hogi",
+        "agent": "orchestrator",
+        "response": "Maaf kijiyega, lekin mein bhavishyavani nahin kar sakta. Lekin aap mausam vibhag ki website ya mobile app par jaakar aaj aur kal ke mausam ki jaankari prapt kar sakte hain."
+      }
+    ],
+    "created_at": "2026-06-30T23:24:13.985392",
+    "last_active": "2026-06-30T23:24:14.989667"
+  },
+  "747d96d4-d53b-4bca-94d2-81a965bbd687": {
+    "session_id": "747d96d4-d53b-4bca-94d2-81a965bbd687",
+    "name": null,
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:31:11.807517",
+        "user": "Will it rain in Ahmedabad?",
+        "agent": "weather",
+        "response": "Hello Ahmedabad farmer, \n\nCurrently, the temperature in Ahmedabad is 32.84°C with scattered clouds and a humidity of 53%. However, looking at the 3-day forecast, there is no chance of rain today (0% c"
+      }
+    ],
+    "created_at": "2026-06-30T23:31:10.478495",
+    "last_active": "2026-06-30T23:31:11.807526"
+  },
+  "d827a763-ccad-42e3-b55e-94dafade06ce": {
+    "session_id": "d827a763-ccad-42e3-b55e-94dafade06ce",
+    "name": null,
+    "location": "Ahmedabad",
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:32:20.193417",
+        "user": "kya kal ahmedabad me barish hogi?",
+        "agent": "orchestrator",
+        "response": "Namaste kisan ji, Ahmedabad mein kal ki mausam vibhag ki jaankari ke anusaar, barish hone ki sambhavana kam hai. Aaj ke mausam ki jaankari ke anusaar, kal ka din garm aur sooraj bhara ho sakta hai. Le"
+      }
+    ],
+    "created_at": "2026-06-30T23:32:19.211678",
+    "last_active": "2026-06-30T23:32:20.193439"
+  },
+  "d465aa16-994d-46a3-92c7-794626242cde": {
+    "session_id": "d465aa16-994d-46a3-92c7-794626242cde",
+    "name": null,
+    "location": null,
+    "crops": [],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:32:45.310688",
+        "user": "mere ghehu me ye pale spots kya he",
+        "agent": "crop_doctor",
+        "response": "Aapke gehu mein pale spots ka matlab ho sakta hai ki yeh powdery mildew ya leaf rust ki bimari hai. Iska ilaj karne ke liye aapko fungicide ka upyog karna hoga, jaise ki neem oil ya chlorothalonil. In"
+      }
+    ],
+    "created_at": "2026-06-30T23:32:44.567302",
+    "last_active": "2026-06-30T23:32:45.310698"
+  },
+  "c83fb543-5617-465c-a606-76e2a262a932": {
+    "session_id": "c83fb543-5617-465c-a606-76e2a262a932",
+    "name": "Kya",
+    "location": "Ahmedabad",
+    "crops": [
+      "tomato",
+      "rice"
+    ],
+    "conversation_history": [
+      {
+        "timestamp": "2026-06-30T23:57:07.682387",
+        "user": "मेरी फसल में कीड़े लग गए हैं",
+        "agent": "crop_doctor",
+        "response": "आपकी फसल में कीड़े लगना एक आम समस्या है, खासकर गर्मियों के मौसम में। आपको नीम का तेल या खरपतवार नियंत्रण के लिए जैविक उर्वरकों का उपयोग करना चाहिए। इसके अलावा, आप अपनी फसल की नियमित जांच करें और कीड़ो"
+      },
+      {
+        "timestamp": "2026-06-30T23:57:16.402163",
+        "user": "Will it rain in Ahmedabad tomorrow?",
+        "agent": "weather",
+        "response": "Hello again, I see you're concerned about the weather in Ahmedabad. Unfortunately, it's not going to rain in Ahmedabad tomorrow, June 30th. The forecast shows a 0% chance of rain for tomorrow. However"
+      },
+      {
+        "timestamp": "2026-06-30T23:57:40.682180",
+        "user": "my name is Namrata, What is price of tomato in India",
+        "agent": "market",
+        "response": "Hello Namrata, the current price of tomato in India is ₹1050 per quintal. The market trend is stable, which is a good sign for you as a farmer. I would advise you to sell your tomatoes at the Local AP"
+      },
+      {
+        "timestamp": "2026-06-30T23:58:40.195117",
+        "user": "what is my name",
+        "agent": "orchestrator",
+        "response": "Your name is Namrata."
+      },
+      {
+        "timestamp": "2026-06-30T23:58:47.281772",
+        "user": "mera naam kya hai",
+        "agent": "orchestrator",
+        "response": "Kya, your name is actually Kya, not Namrata, as you mentioned earlier. I have your profile updated as Kya from Ahmedabad, growing tomatoes and rice."
+      }
+    ],
+    "created_at": "2026-06-30T23:51:55.326418",
+    "last_active": "2026-06-30T23:58:47.281780"
+  }
+}
