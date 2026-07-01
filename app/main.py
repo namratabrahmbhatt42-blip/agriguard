@@ -255,4 +255,5 @@ async def chat(request: ChatRequest):
 if __name__ == "__main__":
     import uvicorn
     print("[AgriGuard] Starting at http://localhost:8080")
-    uvicorn.run("app.main:app", host="localhost", port=8080, reload=True)
+    port = int(os.environ.get("PORT", 7860))
+    uvicorn.run("app.main:app", host="0.0.0.0", port=port)
